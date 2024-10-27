@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Seunghyeon%20Lee&color=20:283618,100:606C38&fontColor=fff&height=250&stroke=000&strokeWidth=0.2)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Seunghyeon%20Lee&color=20:283618,100:606C38&fontColor=fff&height=250&stroke=000&strokeWidth=0.5)
 
 # HYEON &nbsp;이승현
 
