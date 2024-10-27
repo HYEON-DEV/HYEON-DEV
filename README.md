@@ -1,23 +1,25 @@
-## Hi there 👋 &nbsp; I am Seunghyeon Lee. &nbsp; Call me "HYEON".
+![header](https://capsule-render.vercel.app/api?type=venom&text=Seunghyeon%20Lee&color=20:283618,100:606C38&fontColor=fff&height=250)
 
-<!--
-**HYEON-DEV/HYEON-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HYEON &nbsp;이승현
 
-Here are some ideas to get you started:
+- 🎥 I worked as a FX Artist for three years in the VFX studio.
+- 🌱 I’m currently preparing to be a backend developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+#### 💻 WORK
+- Study &nbsp; : &nbsp; Spring
+- Team Project &nbsp; : &nbsp; Clone Coding - SonyStore
+
+<br />
+
+#### 📫 CONTACT
+
+![blog](https://img.shields.io/badge/BLOG-FFFFFF?style=social) &nbsp; https://iamsh.tistory.com <br/>
+![email](https://img.shields.io/badge/EMAIL-FFFFFF?style=social) &nbsp; hyeon970315@gmail.com
 
 
-- 🌱 I’m currently preparing to be a backend developer
-- 📫 How to reach me: hyeon970315@gmail.com
+
 
 ---
 
