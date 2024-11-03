@@ -2,8 +2,9 @@
 
 # HYEON &nbsp;이승현
 
-- 🎥 I worked as a FX Artist for three years in the VFX studio.
 - 🌱 I’m currently preparing to be a backend developer.
+- 🎥 I worked as a FX Artist for three years in the VFX studio.
+- 🎓 I majored in Computer Science with a minor in Media Art in the Sangmyung University.
 
 <br />
 
@@ -18,8 +19,15 @@
 ![blog](https://img.shields.io/badge/BLOG-FFFFFF?style=social) &nbsp; https://iamsh.tistory.com <br/>
 ![email](https://img.shields.io/badge/EMAIL-FFFFFF?style=social) &nbsp; hyeon970315@gmail.com
 
+<br />
 
+#### ✊ ETC
+I steadily exercise and study English. <br/>
+I believe that physical fitness is fundamental to self management and is important. <br/>
+I think having stamina allows me to do what I want for a long time. <br/>
+my record &nbsp;&nbsp; https://iamsh.tistory.com/162 &nbsp;&nbsp; https://iamsh.tistory.com/2
 
+<br />
 
 ---
 
