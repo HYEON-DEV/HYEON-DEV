@@ -9,7 +9,7 @@
 <br />
 
 #### 💻 WORK
-- Study &nbsp; : &nbsp; Spring | Java | JavaScript | React
+- Study &nbsp; : &nbsp; Spring | Java | SQL | JavaScript | React
 - Team Project &nbsp; : &nbsp; SonyStore - Web Shoppingmall Project
 
 <br />
