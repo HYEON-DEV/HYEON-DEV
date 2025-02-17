@@ -10,7 +10,8 @@
 
 #### 💻 WORK
 - Study &nbsp; : &nbsp; Spring | Java | SQL | Go | JavaScript | React
-- Team Project &nbsp; : &nbsp; SonyStore - Web Shoppingmall Project &nbsp; | &nbsp; Sign - Sign Verification Project
+- Team Project &nbsp; : &nbsp; SonyStore - Web Shoppingmall Project
+- Toy Project &nbsp; : &nbsp; Sign - Sign Verification Project
 
 <br />
 
