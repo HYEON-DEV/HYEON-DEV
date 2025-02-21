@@ -25,7 +25,7 @@
 #### ✊ ETC
 I steadily exercise and study English. <br/>
 I believe that physical fitness is fundamental to self management and is important. <br/>
-I think having stamina allows me to do what I want for a long time. <br/>
+I think having good physical strength allows me to do what I want for a long time. <br/>
 my record &nbsp;&nbsp; https://iamsh.tistory.com/162 &nbsp;&nbsp; https://iamsh.tistory.com/2
 
 <br />
