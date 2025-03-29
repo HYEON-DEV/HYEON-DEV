@@ -6,7 +6,7 @@
 - 🎥 I worked as a FX Artist for three years in the VFX studio.
 - 🎓 I majored in Computer Science with a minor in Media Art in the Sangmyung University.
 
-<br />
+<br/>
 
 #### 💻 WORK
 - Study &nbsp; : &nbsp; Spring | Java | SQL | Go | JavaScript | React
@@ -45,4 +45,8 @@ my record &nbsp;&nbsp; https://iamsh.tistory.com/162 &nbsp;&nbsp; https://iamsh.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<br />
 
+### 💬 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYEON-DEV&layout=compact&langs_count=10&theme=merko)
