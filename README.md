@@ -11,7 +11,6 @@
 #### 💻 WORK
 - Study &nbsp; : &nbsp; Spring | Java | SQL | Go | JavaScript | React
 - Team Project &nbsp; : &nbsp; Sony Store - Web Shoppingmall Project
-- Toy Project &nbsp; : &nbsp; Sign - Sign Verification Project
 
 <br />
 
@@ -50,3 +49,4 @@ my record &nbsp;&nbsp; https://iamsh.tistory.com/162 &nbsp;&nbsp; https://iamsh.
 ### 💬 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYEON-DEV&layout=compact&langs_count=10&theme=merko)
+
