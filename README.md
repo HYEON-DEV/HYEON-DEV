@@ -9,7 +9,7 @@
 <br/>
 
 #### 💻 WORK
-- Study &nbsp; : &nbsp; Spring | Java | SQL | Go | JavaScript | React
+- Study &nbsp; : &nbsp; Docker | Spring | Java | SQL | Go | JavaScript | React
 - Team Project &nbsp; : &nbsp; Sony Store - Web Shoppingmall Project
 
 <br />
@@ -25,13 +25,15 @@
 I steadily exercise and study English. <br/>
 I believe that physical fitness is fundamental to self management and is important. <br/>
 I think having good physical strength allows me to do what I want for a long time. <br/>
-my record &nbsp;&nbsp; https://iamsh.tistory.com/162 &nbsp;&nbsp; https://iamsh.tistory.com/2
+my record &nbsp;&nbsp; https://iamsh.tistory.com/category/EXERCISE &nbsp;&nbsp; https://iamsh.tistory.com/category/ENGLISH
 
 <br />
 
 ---
 
-### My Tech Stack
+<br/>
+
+### 🛠️ My Tech Stack
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -43,10 +45,10 @@ my record &nbsp;&nbsp; https://iamsh.tistory.com/162 &nbsp;&nbsp; https://iamsh.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<br />
+<br/>
 
 ### 💬 Most Used Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYEON-DEV&layout=compact&langs_count=10&theme=merko)
 
