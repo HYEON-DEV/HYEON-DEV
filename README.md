@@ -49,6 +49,5 @@ my record &nbsp;&nbsp; https://iamsh.tistory.com/category/EXERCISE &nbsp;&nbsp; 
 
 <br/>
 
-### 💬 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYEON-DEV&layout=compact&langs_count=10&theme=merko)
 
