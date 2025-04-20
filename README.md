@@ -9,7 +9,7 @@
 <br/>
 
 #### 💻 WORK
-- Study &nbsp; : &nbsp; Kubernetes | Docker | Spring | Java | SQL | Go | JavaScript | React
+- Study &nbsp; : &nbsp; Kubernetes | Docker | Spring | Java | SQL | JavaScript | React | Go
 - Team Project &nbsp; : &nbsp; Sony Store - Web Shoppingmall Project
 
 <br />
