@@ -2,7 +2,7 @@
 
 # HYEON &nbsp;이승현
 
-- 🌱 I’m currently preparing to be a backend developer.
+- 🌱 I'm a backend developer working on cloud infrastructure and virtualization platforms.
 - 🎥 I worked as a FX Artist for three years in the VFX studio.
 - 🎓 I majored in Computer Science with a minor in Media Art in the Sangmyung University.
 
